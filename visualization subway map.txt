@@ -1,0 +1,21 @@
+positive points
+
+- distinction between the lines (different colors and number of lines)
+- name of every station
+- stations marked with a white dot
+- terminus marked with a white/black dot
+- connections are marked with a specific marker
+- connections with train station/airport marked with a specific marker
+- compass to mark the north
+
+negative points
+
+- lack of information: hours of the first and last subway
+- the rivers can be confused with a subway line
+- not a real scale between the stations
+- lack of information (monuments, attractions)
+- lack of visibility (global point of view)
+- No clear representation of the maglev
+- to lines have similar colours
+
+Suggested improvement
