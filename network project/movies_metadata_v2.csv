@@ -1,0 +1,298 @@
+,genres,id,title,production_countries,vote_average,year
+46,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",807,Se7en,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1995
+49,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",629,The Usual Suspects,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1995
+109,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",103,Taxi Driver,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1976
+186,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",58372,Reckless,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1995
+256,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",11,Star Wars,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1977
+292,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",680,Pulp Fiction,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1994
+314,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",278,The Shawshank Redemption,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1994
+351,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",13,Forrest Gump,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1994
+394,"[{'id': 10749, 'name': 'Romance'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",278939,Girl in the Cadillac,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1995
+522,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",424,Schindler's List,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1993
+586,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",274,The Silence of the Lambs,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1991
+706,"[{'id': 99, 'name': 'Documentary'}]",73183,"The Haunted World of Edward D. Wood, Jr.","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1996
+834,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",238,The Godfather,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1972
+877,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",567,Rear Window,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1954
+882,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",284,The Apartment,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1960
+895,"[{'id': 18, 'name': 'Drama'}]",599,Sunset Boulevard,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1950
+930,"[{'id': 18, 'name': 'Drama'}]",85638,The Scarlet Letter,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1926
+1057,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",500,Reservoir Dogs,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1992
+1138,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",975,Paths of Glory,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1957
+1151,"[{'id': 99, 'name': 'Documentary'}]",31225,Paris is Burning,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1990
+1152,"[{'id': 18, 'name': 'Drama'}]",510,One Flew Over the Cuckoo's Nest,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1975
+1154,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",1891,The Empire Strikes Back,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1980
+1161,"[{'id': 18, 'name': 'Drama'}]",389,12 Angry Men,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1957
+1170,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",769,GoodFellas,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1990
+1176,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",539,Psycho,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1960
+1178,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",240,The Godfather: Part II,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1974
+1201,"[{'id': 18, 'name': 'Drama'}]",207,Dead Poets Society,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1989
+1236,"[{'id': 35, 'name': 'Comedy'}]",914,The Great Dictator,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1940
+1419,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",27322,Love Jones,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1997
+1571,"[{'id': 99, 'name': 'Documentary'}]",25099,"Fast, Cheap & Out of Control","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1997
+1743,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",188870,Leather Jacket Love Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1998
+1761,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",78373,"Dancer, Texas Pop. 81","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1998
+1813,"[{'id': 18, 'name': 'Drama'}]",102304,Whatever,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1998
+2216,"[{'id': 18, 'name': 'Drama'}]",73,American History X,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1998
+2217,"[{'id': 99, 'name': 'Documentary'}]",18603,Hands on a Hard Body: The Documentary,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1997
+2524,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",29239,The Mummy's Tomb,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1942
+2743,"[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]",24128,Stop Making Sense,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1984
+3030,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",497,The Green Mile,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1999
+3189,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",901,City Lights,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1931
+3220,"[{'id': 99, 'name': 'Documentary'}]",20423,For All Mankind,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1989
+3342,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",3082,Modern Times,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1936
+3727,"[{'id': 35, 'name': 'Comedy'}]",38548,Margaret Cho: I'm the One That I Want,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,2000
+4099,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",77,Memento,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2000
+4878,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 80, 'name': 'Crime'}]",37257,Witness for the Prosecution,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1957
+6205,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",251053,Washington Heights,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2002
+6362,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",45139,Jesus,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.9,1979
+6472,"[{'id': 99, 'name': 'Documentary'}]",1778,The Backyard,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2002
+6527,"[{'id': 99, 'name': 'Documentary'}]",26246,Incident at Oglala,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1992
+6698,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",88641,There Goes My Baby,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1994
+7541,"[{'id': 18, 'name': 'Drama'}]",107499,A Better Place,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1997
+8307,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}]",992,"Sherlock, Jr.","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1924
+8317,"[{'id': 35, 'name': 'Comedy'}]",31411,The Cameraman,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1928
+8377,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",43867,The Prisoner of Zenda,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1937
+8385,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",31868,Intermezzo: A Love Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1939
+8455,"[{'id': 18, 'name': 'Drama'}]",946,Letter from an Unknown Woman,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1948
+8500,"[{'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",17640,It's Always Fair Weather,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1955
+8860,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",17663,Anne of Green Gables,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1985
+8926,"[{'id': 36, 'name': 'History'}, {'id': 99, 'name': 'Documentary'}]",114524,Common Threads: Stories from the Quilt,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1989
+9117,"[{'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}]",30983,From the Earth to the Moon,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1998
+9179,"[{'id': 10402, 'name': 'Music'}, {'id': 99, 'name': 'Documentary'}, {'id': 10770, 'name': 'TV Movie'}]",29587,Style Wars,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1983
+9389,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",27079,High Roller: The Stu Ungar Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2003
+9683,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",43141,The Matchmaker,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1958
+10032,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",40730,On Borrowed Time,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1939
+10456,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10751, 'name': 'Family'}]",34662,Li'l Abner,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1959
+10763,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",97936,Sweet November,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1968
+10876,"[{'id': 99, 'name': 'Documentary'}]",13222,The Devil and Daniel Johnston,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2005
+11029,"[{'id': 99, 'name': 'Documentary'}]",42003,Chuck Berry: Hail! Hail! Rock 'n' Roll,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1987
+11050,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",43147,Blessed Event,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1932
+11385,"[{'id': 10402, 'name': 'Music'}, {'id': 99, 'name': 'Documentary'}]",68736,Joe Cocker - Mad Dogs & Englishmen,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1971
+11666,"[{'id': 35, 'name': 'Comedy'}]",61648,Something in the Wind,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1947
+11861,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}]",170261,The Legend of Sleepy Hollow,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1980
+11998,"[{'id': 18, 'name': 'Drama'}]",17274,American Pastime,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2007
+12027,"[{'id': 99, 'name': 'Documentary'}]",13958,The King of Kong,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2007
+12124,"[{'id': 99, 'name': 'Documentary'}]",114033,...And the Pursuit of Happiness,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1986
+12135,"[{'id': 10402, 'name': 'Music'}, {'id': 37, 'name': 'Western'}]",50155,Can't Help Singing,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1944
+12164,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",42173,Chilly Scenes of Winter,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1979
+12553,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",92299,The Thief Who Came to Dinner,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1973
+12667,"[{'id': 35, 'name': 'Comedy'}]",72609,Steamboat Round the Bend,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1935
+12762,"[{'id': 99, 'name': 'Documentary'}]",33588,White Light/Black Rain: The Destruction of Hiroshima and Nagasaki,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2007
+12982,"[{'id': 99, 'name': 'Documentary'}]",38616,Marjoe,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1972
+13252,"[{'id': 80, 'name': 'Crime'}, {'id': 99, 'name': 'Documentary'}]",15584,Dear Zachary: A Letter to a Son About His Father,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2008
+13265,"[{'id': 35, 'name': 'Comedy'}]",53519,High and Dizzy,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1920
+13322,"[{'id': 99, 'name': 'Documentary'}, {'id': 35, 'name': 'Comedy'}]",47658,John Waters: This Filthy World,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2006
+13447,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",43034,Hell to Eternity,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1960
+13645,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",38464,Black Magic,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1944
+13710,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",90799,Hi Diddle Diddle,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1943
+14579,"[{'id': 35, 'name': 'Comedy'}]",121379,Lady Windermere's Fan,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1925
+14656,"[{'id': 99, 'name': 'Documentary'}]",87065,Louie Bluie,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1985
+15134,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",43517,This Is the Army,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1943
+15143,"[{'id': 35, 'name': 'Comedy'}, {'id': 99, 'name': 'Documentary'}]",40594,Julia Sweeney - Letting Go of God,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2008
+15331,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",94225,Bless the Beasts & Children,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,1971
+15345,"[{'id': 18, 'name': 'Drama'}]",48003,Gigot,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1962
+15460,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1789,The Gazebo,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1959
+15521,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",53209,The Patsy,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1928
+15710,"[{'id': 99, 'name': 'Documentary'}]",96451,If God Is Willing and da Creek Don't Rise,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2010
+15757,"[{'id': 18, 'name': 'Drama'}]",133792,The Joker Is Wild,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1957
+15794,"[{'id': 18, 'name': 'Drama'}]",49813,Sue,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1997
+16687,[],109887,My Foolish Heart,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1950
+16792,"[{'id': 99, 'name': 'Documentary'}]",8770,Uncounted,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2008
+16803,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",72185,Winnie the Pooh and Tigger Too,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1974
+16903,"[{'id': 35, 'name': 'Comedy'}]",82460,Bye Bye Braverman,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1968
+16978,"[{'id': 35, 'name': 'Comedy'}]",45523,Louis C.K.: Hilarious,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2010
+16979,"[{'id': 35, 'name': 'Comedy'}]",30969,Louis C.K.: Chewed Up,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2008
+17268,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",105981,Lucky Star,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1929
+17578,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",209802,SUBWAYStories: Tales from the Underground,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1997
+17739,"[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]",72744,Pearl Jam: Twenty,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2011
+17910,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",61645,First Love,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1939
+18060,"[{'id': 35, 'name': 'Comedy'}]",27012,Bone,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1972
+18124,"[{'id': 99, 'name': 'Documentary'}]",53328,The Last Mountain,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2011
+18406,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",45971,You and Me,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1938
+18462,"[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]",72186,Thunder Soul,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2010
+18533,"[{'id': 35, 'name': 'Comedy'}]",80379,Louis C.K.: Live at the Beacon Theater,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2011
+18629,"[{'id': 99, 'name': 'Documentary'}]",26397,The Civil War,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.2,1990
+18697,"[{'id': 12, 'name': 'Adventure'}, {'id': 99, 'name': 'Documentary'}]",68450,The Art of Flight,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2011
+18910,"[{'id': 99, 'name': 'Documentary'}]",105583,Diaries Notes and Sketches,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1969
+18948,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",84496,Zig Zag,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1970
+19203,"[{'id': 99, 'name': 'Documentary'}]",148807,"Lost, Lost, Lost","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1976
+19550,"[{'id': 99, 'name': 'Documentary'}]",262243,The John Garfield Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.5,2003
+19562,"[{'id': 99, 'name': 'Documentary'}]",288121,Fearful Symmetry,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1998
+19564,"[{'id': 99, 'name': 'Documentary'}]",92171,The Thing: Terror Takes Shape,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.9,1998
+19712,"[{'id': 99, 'name': 'Documentary'}]",288295,Lana Turner... a Daughter's Memoir,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2001
+19915,"[{'id': 10402, 'name': 'Music'}]",21317,Paramore: The Final Riot!,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2008
+19968,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10402, 'name': 'Music'}]",38769,Little Miss Broadway,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1938
+20783,"[{'id': 99, 'name': 'Documentary'}]",37757,Never Sleep Again: The Elm Street Legacy,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2010
+20999,"[{'id': 99, 'name': 'Documentary'}]",130824,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.5,2000
+21292,"[{'id': 99, 'name': 'Documentary'}]",216755,The Human Behavior Experiments,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2006
+21390,"[{'id': 99, 'name': 'Documentary'}, {'id': 10751, 'name': 'Family'}, {'id': 18, 'name': 'Drama'}]",205985,Miss You Can Do It,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2013
+21415,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 18, 'name': 'Drama'}]",259808,Criminal Justice,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1990
+21490,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",107231,A Ticklish Affair,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1963
+21516,"[{'id': 99, 'name': 'Documentary'}, {'id': 10751, 'name': 'Family'}]",198342,Family Band: The Cowsills Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2011
+21616,"[{'id': 18, 'name': 'Drama'}]",62503,Almost Kings,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2010
+21968,"[{'id': 18, 'name': 'Drama'}]",144613,Beau Brummel,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1924
+22006,"[{'id': 99, 'name': 'Documentary'}]",43208,Snowball Effect: The Story of Clerks,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.9,2004
+22161,"[{'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}]",158994,After Tiller,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,2013
+22578,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}]",89445,Eggshells,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1969
+23463,"[{'id': 99, 'name': 'Documentary'}]",252147,Mile... Mile & A Half,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,2013
+23598,"[{'id': 35, 'name': 'Comedy'}]",86297,Tall Story,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1960
+23627,"[{'id': 27, 'name': 'Horror'}]",66762,Jennifer,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1978
+23649,"[{'id': 99, 'name': 'Documentary'}]",174319,Elaine Stritch: Shoot Me,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2013
+23673,"[{'id': 18, 'name': 'Drama'}]",244786,Whiplash,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2014
+23914,"[{'id': 99, 'name': 'Documentary'}]",81543,So Much So Fast,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2006
+23926,"[{'id': 27, 'name': 'Horror'}]",42796,The Strangler,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1964
+24380,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 35, 'name': 'Comedy'}]",38457,Charlie Chan at the Wax Museum,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1940
+24421,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",224946,Motivational Growth,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2013
+24471,"[{'id': 37, 'name': 'Western'}]",143516,Winterhawk,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1975
+24733,"[{'id': 99, 'name': 'Documentary'}]",248870,An Apology to Elephants,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2013
+24809,"[{'id': 35, 'name': 'Comedy'}]",32182,David Cross: The Pride Is Back,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1999
+24881,"[{'id': 12, 'name': 'Adventure'}, {'id': 99, 'name': 'Documentary'}]",294959,Valley Uprising,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2014
+24951,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10770, 'name': 'TV Movie'}]",184061,Deliver Us from Evil,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1973
+25157,"[{'id': 18, 'name': 'Drama'}]",116385,Let No Man Write My Epitaph,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1960
+25253,"[{'id': 36, 'name': 'History'}, {'id': 99, 'name': 'Documentary'}]",230836,Levitated Mass,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2013
+25387,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",212950,Eight Iron Men,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1952
+25461,"[{'id': 35, 'name': 'Comedy'}]",20147,Dave Chappelle: For What it's Worth,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2004
+25652,"[{'id': 35, 'name': 'Comedy'}]",99946,Exit Smiling,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1926
+25654,"[{'id': 35, 'name': 'Comedy'}]",241804,Fearless Fagan,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1952
+25746,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",29628,Get Crazy,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,1983
+25748,"[{'id': 99, 'name': 'Documentary'}, {'id': 12, 'name': 'Adventure'}]",186845,Symphony of the Soil,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2013
+25787,"[{'id': 35, 'name': 'Comedy'}]",19993,George Lopez: America's Mexican,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2007
+25812,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",121611,The Biggest Bundle of Them All,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.5,1968
+25902,"[{'id': 99, 'name': 'Documentary'}]",261207,A Night at the Movies: The Suspenseful World of Thrillers,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2009
+26170,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 35, 'name': 'Comedy'}]",287299,Katt Williams: Priceless: Afterlife,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2014
+26243,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",79327,The Littlest Angel,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2011
+26309,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",90955,The Sky Dragon,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1949
+26483,"[{'id': 35, 'name': 'Comedy'}]",98293,The Captain Hates the Sea,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1934
+26494,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",79521,Miracle in the Rain,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1956
+26677,"[{'id': 35, 'name': 'Comedy'}]",107593,June Bride,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1948
+26880,[],123620,Spike of Bensonhurst,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1988
+27010,"[{'id': 35, 'name': 'Comedy'}]",242097,How Sweet It Is!,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1968
+27295,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",138699,The Little Hut,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1957
+27404,"[{'id': 18, 'name': 'Drama'}]",279979,The Court-Martial of Jackie Robinson,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1990
+27435,"[{'id': 99, 'name': 'Documentary'}]",242675,"Another Day, Another Time: Celebrating the Music of ""Inside Llewyn Davis""","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.3,2013
+27842,"[{'id': 99, 'name': 'Documentary'}]",224972,The Mask You Live In,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,2015
+27908,"[{'id': 18, 'name': 'Drama'}]",66787,Mentor,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2006
+27949,[],125305,Landscape Suicide,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1987
+28324,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",216652,Mike Birbiglia: My Girlfriend's Boyfriend,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2013
+28325,"[{'id': 35, 'name': 'Comedy'}]",259395,Tom Segura: Completely Normal,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2014
+28367,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 99, 'name': 'Documentary'}]",98554,Serving Life,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2011
+28508,"[{'id': 35, 'name': 'Comedy'}]",13643,George Carlin: It's Bad for Ya!,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2008
+28772,[],100205,Baby Snakes,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1979
+28806,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 12, 'name': 'Adventure'}]",97593,Shark Kill,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1976
+28825,"[{'id': 18, 'name': 'Drama'}]",260176,Southern Baptist Sissies,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2013
+28922,"[{'id': 99, 'name': 'Documentary'}, {'id': 35, 'name': 'Comedy'}, {'id': 10770, 'name': 'TV Movie'}]",13015,George Carlin: Life Is Worth Losing,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2005
+29183,"[{'id': 99, 'name': 'Documentary'}]",321640,The Jinx: The Life and Deaths of Robert Durst,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.6,2015
+29339,"[{'id': 99, 'name': 'Documentary'}]",32901,Mine,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2009
+29491,"[{'id': 99, 'name': 'Documentary'}]",39185,Winning Time: Reggie Miller vs. The New York Knicks,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2010
+29710,"[{'id': 35, 'name': 'Comedy'}]",216989,Doug Stanhope: Beer Hall Putsch,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2013
+29732,"[{'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}]",298634,One Little Pill,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2014
+29745,"[{'id': 99, 'name': 'Documentary'}]",256562,Tar Creek,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2009
+29760,"[{'id': 99, 'name': 'Documentary'}]",133741,Radio Unnameable,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2012
+30092,"[{'id': 99, 'name': 'Documentary'}]",42098,Streetwise,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1984
+30212,"[{'id': 99, 'name': 'Documentary'}]",300179,The Lion’s Mouth Opens,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2014
+30272,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",33744,The Impossible Years,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1968
+30288,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",146679,Backyard Dogs,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2001
+30313,"[{'id': 16, 'name': 'Animation'}]",53210,Duck Amuck,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1953
+30415,"[{'id': 18, 'name': 'Drama'}, {'id': 99, 'name': 'Documentary'}]",99370,Got the Facts on Milk?,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2011
+30833,"[{'id': 28, 'name': 'Action'}, {'id': 16, 'name': 'Animation'}]",72886,Mortal Kombat: The Journey Begins,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1995
+31018,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}]",335805,Faith of Our Fathers,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,2015
+31251,"[{'id': 35, 'name': 'Comedy'}]",140489,The Mother Of Invention,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2010
+31615,"[{'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",273084,Bipolar,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2014
+31697,"[{'id': 99, 'name': 'Documentary'}]",114887,The Dream Team,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2012
+31726,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",53315,The Kreutzer Sonata,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2008
+31878,"[{'id': 9648, 'name': 'Mystery'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",347968,One Minute Time Machine,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2014
+32135,"[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]",224100,The Paw Project,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2013
+32177,"[{'id': 99, 'name': 'Documentary'}]",137853,Journey to Planet X,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2012
+32530,"[{'id': 35, 'name': 'Comedy'}]",264569,Dave Attell: Road Work,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,2014
+32594,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",43710,Who's Minding The Mint?,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1967
+33627,[],267178,Mad As Hell,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2014
+33876,"[{'id': 99, 'name': 'Documentary'}]",345323,Unity,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2015
+34667,"[{'id': 36, 'name': 'History'}, {'id': 99, 'name': 'Documentary'}]",293603,The Roosevelts: An Intimate History,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2014
+34714,"[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]",189215,The Untold History of the United States,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2012
+34877,"[{'id': 10402, 'name': 'Music'}]",38119,Neil Young & Crazy Horse: Rust Never Sleeps,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1979
+35011,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",134743,Who Am I This Time?,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1982
+35017,"[{'id': 37, 'name': 'Western'}]",202727,Cattle Town,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1952
+35180,"[{'id': 99, 'name': 'Documentary'}]",19446,One Six Right,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2005
+35214,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}]",180929,Whiffs,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1975
+35248,"[{'id': 99, 'name': 'Documentary'}]",357681,Hitting the Apex,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2015
+35257,"[{'id': 99, 'name': 'Documentary'}]",291537,Winning: The Racing Life of Paul Newman,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2015
+35461,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",43823,Tom Brown's School Days,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1940
+35818,"[{'id': 18, 'name': 'Drama'}]",277631,Birch Interval,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1976
+36230,"[{'id': 35, 'name': 'Comedy'}]",135097,The Cinema Snob Movie,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2012
+36291,"[{'id': 27, 'name': 'Horror'}, {'id': 10402, 'name': 'Music'}]",92060,Michael Jackson's Thriller,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,1983
+37200,"[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]",334495,The Barkley Marathons: The Race That Eats Its Young,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2014
+37342,"[{'id': 18, 'name': 'Drama'}]",254661,O'er the Land,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2009
+37642,"[{'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",379925,The Answers,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2015
+37877,"[{'id': 35, 'name': 'Comedy'}]",185273,Bowery Battalion,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1951
+37923,"[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]",53202,The T.A.M.I. Show,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,1964
+37982,"[{'id': 99, 'name': 'Documentary'}]",57656,Dangerous Days: Making Blade Runner,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2007
+38019,"[{'id': 35, 'name': 'Comedy'}]",85613,Kentucky Kernels,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1934
+38045,"[{'id': 99, 'name': 'Documentary'}]",355230,In Jackson Heights,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2015
+38061,"[{'id': 18, 'name': 'Drama'}]",230284,One Man's Journey,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1933
+38212,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 16, 'name': 'Animation'}]",86517,It's Such a Beautiful Day,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.6,2011
+38590,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",120259,About Mrs. Leslie,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1954
+38599,"[{'id': 99, 'name': 'Documentary'}]",362268,Stretch and Bobbito: Radio That Changed Lives,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2015
+38699,"[{'id': 99, 'name': 'Documentary'}]",52406,Fresh,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2009
+38986,"[{'id': 99, 'name': 'Documentary'}]",322745,Counting,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2015
+39078,"[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]",400791,Old Fashioned: The Story of the Wisconsin Supper Club,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2015
+39094,"[{'id': 10402, 'name': 'Music'}, {'id': 35, 'name': 'Comedy'}]",400608,Bo Burnham: Make Happy,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2016
+39220,"[{'id': 18, 'name': 'Drama'}]",266279,Night World,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,1932
+39233,"[{'id': 99, 'name': 'Documentary'}]",377462,O.J.: Made in America,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2016
+39376,"[{'id': 99, 'name': 'Documentary'}]",309882,Patterns of Evidence: The Exodus,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2015
+39386,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}]",399106,Piper,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2016
+39760,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",86360,Sunnyside Up,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1929
+39856,"[{'id': 99, 'name': 'Documentary'}]",149320,King: A Filmed Record... Montgomery to Memphis,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,1970
+39929,"[{'id': 35, 'name': 'Comedy'}]",376482,Tom Segura: Mostly Stories,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2016
+40085,"[{'id': 35, 'name': 'Comedy'}]",403936,Deon Cole: Cole-Blooded Seminar,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2016
+40148,"[{'id': 35, 'name': 'Comedy'}]",347105,The Best of Insomniac with Dave Attell Volume 1,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2003
+40278,"[{'id': 35, 'name': 'Comedy'}]",89984,The Cuckoos,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1930
+40381,"[{'id': 37, 'name': 'Western'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",87788,The Legend of Nigger Charley,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1972
+40401,[],388273,No Letting Go,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2016
+40458,"[{'id': 16, 'name': 'Animation'}]",352812,Tick Tock Tale,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2010
+40472,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",409696,Over the Garden Wall,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2014
+40568,"[{'id': 16, 'name': 'Animation'}, {'id': 80, 'name': 'Crime'}, {'id': 99, 'name': 'Documentary'}]",381028,Tower,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2016
+40748,[],24043,States of Grace,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2005
+40970,"[{'id': 99, 'name': 'Documentary'}]",376389,Sky Ladder: The Art of Cai Guo-Qiang,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2016
+41090,"[{'id': 27, 'name': 'Horror'}]",422514,Killjoy's Psycho Circus,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2016
+41603,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}]",406785,Inner Workings,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2016
+41637,"[{'id': 35, 'name': 'Comedy'}]",26016,Kathy Griffin: She'll Cut a Bitch,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2009
+41646,"[{'id': 35, 'name': 'Comedy'}]",401593,Big Jay Oakerson: Live at Webster Hall,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2016
+41700,"[{'id': 35, 'name': 'Comedy'}]",323690,Matt Braunger: Big Dumb Animal,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.6,2015
+41739,"[{'id': 35, 'name': 'Comedy'}]",418990,Kyle Kinane: Loose in Chicago,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2016
+41740,"[{'id': 35, 'name': 'Comedy'}]",320892,Kyle Kinane: I Liked His Old Stuff Better,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2015
+42179,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",295011,Patient Zero,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,
+42422,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",430780,"Michael Bolton's Big, Sexy Valentine's Day Special","[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2017
+42477,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",343018,American Sharia,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2015
+42491,"[{'id': 10402, 'name': 'Music'}]",394269,Lemonade,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,2016
+42579,"[{'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]",32532,Everything Will Be OK,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2006
+42607,"[{'id': 35, 'name': 'Comedy'}]",377446,Tony Hinchcliffe: One Shot,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2016
+42612,"[{'id': 10402, 'name': 'Music'}, {'id': 35, 'name': 'Comedy'}]",390837,Stephen Lynch: Hello Kalamazoo,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2016
+42620,"[{'id': 35, 'name': 'Comedy'}]",399810,Brad Williams: Daddy Issues,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,2016
+42628,"[{'id': 35, 'name': 'Comedy'}]",415735,Sebastian Maniscalco: Why Would You Do That?,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2016
+42730,"[{'id': 35, 'name': 'Comedy'}]",399798,Brad Williams: Fun Size,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2015
+42733,"[{'id': 35, 'name': 'Comedy'}]",342546,Nick Swardson: Taste It,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2015
+42746,"[{'id': 35, 'name': 'Comedy'}]",362108,Paul F. Tompkins: Crying and Driving,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2015
+42753,"[{'id': 35, 'name': 'Comedy'}]",371347,Marc Maron: More Later,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2015
+42835,"[{'id': 28, 'name': 'Action'}]",55505,To Be the Best,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.0,1993
+42882,"[{'id': 35, 'name': 'Comedy'}]",144092,Chris Hardwick: Mandroid,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2012
+43342,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",278901,Korgoth of Barbaria,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2006
+43377,"[{'id': 99, 'name': 'Documentary'}]",426224,Jedi Junior High,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,
+43703,"[{'id': 99, 'name': 'Documentary'}]",447818,Generation Iron 2,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2017
+43783,"[{'id': 99, 'name': 'Documentary'}]",395965,A Billion Lives,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",9.5,2016
+43848,"[{'id': 35, 'name': 'Comedy'}, {'id': 99, 'name': 'Documentary'}]",411518,Triumph's Summer Election Special 2016,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2016
+43903,"[{'id': 35, 'name': 'Comedy'}]",263029,Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.4,2004
+44081,"[{'id': 99, 'name': 'Documentary'}]",390319,Tickling Giants,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.2,2017
+44184,"[{'id': 99, 'name': 'Documentary'}]",154028,Ed Wood: Look Back in Angora,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1994
+44390,"[{'id': 35, 'name': 'Comedy'}]",458310,Hasan Minhaj: Homecoming King,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2017
+44763,"[{'id': 99, 'name': 'Documentary'}]",461805,The Putin Interviews,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.1,2017
+44836,"[{'id': 99, 'name': 'Documentary'}]",411007,Abacus: Small Enough to Jail,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2017
+44893,"[{'id': 16, 'name': 'Animation'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",32534,I Am So Proud of You,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2008
+44927,"[{'id': 10752, 'name': 'War'}, {'id': 99, 'name': 'Documentary'}]",449758,Five Came Back,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2017
+44972,"[{'id': 18, 'name': 'Drama'}, {'id': 10770, 'name': 'TV Movie'}]",273059,Starving in Suburbia,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,2014
+45003,"[{'id': 99, 'name': 'Documentary'}]",432615,Chasing Coral,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,2017
+45080,"[{'id': 99, 'name': 'Documentary'}, {'id': 10402, 'name': 'Music'}]",76498,Heartworn Highways,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,1976
+45213,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",412103,Rick and Morty: State of Georgia Vs. Denver Fenton Allen,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.7,2016
+45256,"[{'id': 99, 'name': 'Documentary'}]",450875,LA 92,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.8,2017
+45336,"[{'id': 18, 'name': 'Drama'}]",269981,Twelve Angry Men,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.5,1954
+45371,"[{'id': 16, 'name': 'Animation'}]",460135,LEGO DC Super Hero Girls: Brain Drain,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",10.0,2017
+45437,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",455661,In a Heartbeat,"[{'iso_3166_1': 'US', 'name': 'United States of America'}]",8.3,2017
