@@ -1,0 +1,6 @@
+Data are available at:
+https://opendata.paris.fr/explore/dataset/arrondissements/export/
+https://opendata.paris.fr/explore/dataset/logement-encadrement-des-loyers/export/
+https://opendata.paris.fr/explore/dataset/arretesinsalubriteparis2010/export/
+
+Unfortunately the arrondissement data set is not accurate for the 12th arrondissement. I had to remove it on Carto.com.
